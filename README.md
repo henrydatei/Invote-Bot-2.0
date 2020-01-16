@@ -5,7 +5,7 @@ der neue Invote-Bot für die TU-Dresden
 
 ## Benutzung
 
-Für die Umfrage [https://invote.tu-dresden.de/98682](https://invote.tu-dresden.de/98682) ist `98682` die Umfrage-ID. Der Bot wird mit `python3 bot.py --id=98682` gestartet.
+Für die Umfrage [https://invote.tu-dresden.de/98682](https://invote.tu-dresden.de/98682) ist `98682` die Umfrage-ID. Der Bot wird mit `python3 invote-bot.py --id=98682` gestartet.
 
 ## benutzte Pakete in Python
 - requests
